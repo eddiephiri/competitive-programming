@@ -1,6 +1,6 @@
 <h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/defanging-an-ip-address">1108. Defanging an IP Address</a></h1>
 
-<a href="https://leetcode.com/problems/defanging-an-ip-address/description/">LeetCode Submission</a>
+<a href="https://leetcode.com/problems/defanging-an-ip-address/submissions/1171505886/">LeetCode Submission</a>
 
 Given a valid (IPv4) IP address, return a defanged version of that IP address.
 
