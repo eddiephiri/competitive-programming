@@ -1,4 +1,4 @@
-<h1><a href="">1108. Defanging an IP Address</a></h1>
+<h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/defanging-an-ip-address">1108. Defanging an IP Address</a></h1>
 
 <a href="https://leetcode.com/problems/defanging-an-ip-address/description/">LeetCode Submission</a>
 
