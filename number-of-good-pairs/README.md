@@ -1,4 +1,4 @@
-<h1><a href="">1512. Number of Good Pairs</a></h>
+<h1><a href="https://github.com/eddiephiri/competitive-programming/blob/main/number-of-good-pairs/">1512. Number of Good Pairs</a></h1>
 
 Given an array of integers nums, return the number of good pairs.
 
