@@ -1,4 +1,4 @@
-<h1><a href=""></a></h1>
+<h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/find-the-difference">Find the Difference</a></h1>
 
 <a href="https://leetcode.com/problems/find-the-difference/submissions/1171461944/">LeetCode Submission</a>
 
