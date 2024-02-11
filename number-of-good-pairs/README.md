@@ -1,5 +1,7 @@
 <h1><a href="https://github.com/eddiephiri/competitive-programming/blob/main/number-of-good-pairs/">1512. Number of Good Pairs</a></h1>
 
+<a href="https://leetcode.com/problems/number-of-good-pairs/submissions/1171354651/">LeetCode Submission</a>
+
 Given an array of integers nums, return the number of good pairs.
 
 A pair (i, j) is called good if nums[i] == nums[j] and i < j.
