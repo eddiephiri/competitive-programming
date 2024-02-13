@@ -1,4 +1,4 @@
-<h1><a href="ttps://github.com/eddiephiri/competitive-programming/tree/main/decrypt-string-from-alphabet-to-integer-mapping">1309. Decrypt String from Alphabet to Integer Mapping
+<h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/decrypt-string-from-alphabet-to-integer-mapping">1309. Decrypt String from Alphabet to Integer Mapping
 </a></h1>
 
 <a href="https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/submissions/1173518052/">LeetCode Submission</a>
