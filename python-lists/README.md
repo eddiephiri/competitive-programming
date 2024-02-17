@@ -1,4 +1,4 @@
-<h1><a href="">Python List</a></h1>
+<h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/python-lists">Python List</a></h1>
 
 <a href="https://www.hackerrank.com/challenges/python-lists/submissions/code/370249593">Hackerrank Submission</a>
 
