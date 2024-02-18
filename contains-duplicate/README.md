@@ -1,6 +1,6 @@
 <h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/contains-duplicate">217. Contains Duplicate</a></h1>
 
-<a href="https://leetcode.com/problems/contains-duplicate/submissions/1179215828/">LeedCode Submission</a>
+<a href="https://leetcode.com/problems/contains-duplicate/submissions/1179232649/">LeedCode Submission</a>
 
 Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
