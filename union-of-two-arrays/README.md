@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/union-of-two-arrays"></a></h1>
+<h1><a href="https://github.com/eddiephiri/competitive-programming/tree/main/union-of-two-arrays">Union of two arrays</a></h1>
 
 <a href="https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab">Geeks for Geeks Submission</a>
 
